@@ -1,10 +1,11 @@
 ---
 page_type: sample
-urlFragment: shelllauncher-v2
+urlFragment: shelllauncherv2
 languages:
   - csharp
 products:
   - windows
+  - windows-iot
 description: Sample apps demonstrating Shell Launcher V2 on Windows 10 Enterprise in the next feature update to Windows 10.
 ---
 
